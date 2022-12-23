@@ -8,7 +8,7 @@ export default function Document() {
         <meta property="og:description" content="Generate a Khutbah" key="description"/>
         <meta
           property="og:image"
-          content="https://cdn.buildspace.so/courses/gpt3-writer/project-og.jpg"
+          content="https://imgur.com/QhaMRdB"
         />
         <meta name="twitter:card" content="summary_large_image"></meta>
       </Head>
