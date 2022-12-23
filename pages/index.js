@@ -84,7 +84,7 @@ const callGenerateEndpoint = async () => {
         >
           <div className="badge">
             
-            <p>Osman</p>
+            <p>Built by Osman</p>
           </div>
         </a>
       </div>
