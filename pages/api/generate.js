@@ -1,5 +1,7 @@
 import { Configuration, OpenAIApi } from "openai";
 
+console.log("API Key Loaded:", process.env.OPENAI_API_KEY ? "Yes" : "No");
+
 // Configure OpenAI API
 const configuration = new Configuration({
   apiKey: process.env.OPENAI_API_KEY, // Ensure the API key is set in your environment
